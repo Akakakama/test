@@ -9,7 +9,7 @@
     "media": "sub",
     "languages": ["US"],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:Akakakama/Extensions",
-    "code": "gh:Akakakama/Extensions/sukebeinyaasi"
+    "update": "gh:Akakakama/test",
+    "code": "gh:Akakakama/test/Sukebei.js"
   }
 ]
