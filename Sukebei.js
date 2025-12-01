@@ -1,5 +1,3 @@
-import AbstractSource from './abstract.js'
-
 export default new class SukebeiNyaa extends AbstractSource {
   // API endpoint for JSON results
   base = atob('aHR0cHM6Ly9ueWFhLmlzcy5vbmUvc3VrZWJlaT9xPQ==')
